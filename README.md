@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### How to raeach me 😎
 <p align="center">
-<a href="https://linkedin.com/in/sergioarmgpl"><img src="www.linkedin.com/in/erick-villatoro"/></a>
+<a href=""www.linkedin.com/in/erick-villatoro">Linkedin<img src="www.linkedin.com/in/erick-villatoro"/></a>
 </p>
 
 ### 🌱 I’m currently learning ...
