@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Villa01/Villa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, My name is Erick Villatoro </h1>
 <h3 align="center">Computer Science Engineering Student</h3>
-
-### How to raeach me 😎
-<p align="center">
-<a href=""www.linkedin.com/in/erick-villatoro">Linkedin<img src="www.linkedin.com/in/erick-villatoro"/></a>
-</p>
 
 ### 🌱 I’m currently learning ...
 - Microsoft Azure Fundamentals AZ900 - A cloud Guru
