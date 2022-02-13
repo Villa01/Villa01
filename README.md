@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, My name is Erick Villatoro </h1>
+<h3 align="center">Computer Science Engineering Student</h3>
+
+### How to raeach me 😎
+<p align="center">
+<a href="https://linkedin.com/in/sergioarmgpl"><img src="www.linkedin.com/in/erick-villatoro"/></a>
+</p>
+
+### 🌱 I’m currently learning ...
+- Microsoft Azure Fundamentals AZ900 - A cloud Guru
+- ReactJs - Udemy
+- Angular - Udemy
