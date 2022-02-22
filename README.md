@@ -17,5 +17,11 @@ Here are some ideas to get you started:
 
 ### 🌱 I’m currently learning ...
 - Microsoft Azure Fundamentals AZ900 - A cloud Guru
+- OCI Foundamentals - Oracle University
 - ReactJs - Udemy
 - Angular - Udemy
+
+### Some of my projects
+| Technologies used | Project | 
+|-------------------|---------|
+| Docker, Docker-Compose, React, Go API | <a href = "https://github.com/Villa01/calculadora_sopes1">Calculator</a> |
