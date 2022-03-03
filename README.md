@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - Angular - Udemy
 
 ### Some of my projects
-| Technologies used | Project | 
-|-------------------|---------|
-| Docker, Docker-Compose, React, Go API | <a href = "https://github.com/Villa01/calculadora_sopes1">Calculator</a> |
+| Name | Description | Technologies used | Project | 
+|------|-------------|-------------------|---------|
+| Calculator App | A calculator implemented with React, Go and MongoDB. | Docker, Docker-Compose, React, Go API | <a href = "https://github.com/Villa01/calculadora_sopes1">Calculator</a> |
+| IoT Canadian Well | An IoT app that gets information of a prototype of a canadian Well. | Arduino, NodeJS, Processing, React, MongoDB | <a href = "https://github.com/Villa01/ACE2_1S22_G-18">CanadianWell</a> |
