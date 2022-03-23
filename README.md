@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, My name is Erick Villatoro </h1>
 <h3 align="center">Computer Science Engineering Student</h3>
 
+### 📜 Certifications
+[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/12e25ebf-d279-483b-b0ff-c11642b85f18?source=linked_in_profile)
+
 ### 🌱 I’m currently learning ...
-- Microsoft Azure Fundamentals AZ900 - A cloud Guru
-- OCI Foundamentals - Oracle University
 - ReactJs - Udemy
 - Angular - Udemy
+- NodeJS - Udemy
 
 ### Some of my projects
 | Name | Description | Technologies used | Project | 
