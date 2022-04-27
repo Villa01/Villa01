@@ -29,3 +29,14 @@ Here are some ideas to get you started:
 | Calculator App | A calculator implemented with React, Go and MongoDB. | Docker, Docker-Compose, React, Go API | <a href = "https://github.com/Villa01/calculadora_sopes1">Calculator</a> |
 | IoT Canadian Well | An IoT app that gets information of a prototype of a canadian Well. | Arduino, NodeJS, Processing, React, MongoDB | <a href = "https://github.com/Villa01/ACE2_1S22_G-18">CanadianWell</a> |
 | Vehicles CRUD | A simple CRUD that consumes data from a MySQL database, implemented by an NodeJS - Express API and visualized by an Angular Frontend | NodeJS, Express, Angular, MySQL | <a href = "https://github.com/Villa01/Vehicles_CRUD">Vehicles CRUD</a> |
+
+### About me on Github
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Villa01&show_icons=true&theme=radical" />
+</a>
+<br>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Villa01&layout=compact" />
+</a>
