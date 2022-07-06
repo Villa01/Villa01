@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <h3 align="center">Computer Science Engineering Student</h3>
 
 ### 📜 Certifications
-[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/12e25ebf-d279-483b-b0ff-c11642b85f18?source=linked_in_profile)
+* [Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/12e25ebf-d279-483b-b0ff-c11642b85f18?source=linked_in_profile)
+* [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/5eecf9e0-f41b-4213-bd9a-6e7dcaa51d29/linked_in?t=reix44)
 
 ### 🌱 I’m currently learning ...
 - ReactJs - Udemy
