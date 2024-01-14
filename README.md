@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 * [Microsoft Certified: Azure Data Fundamentals](https://www.credly.com/badges/5eecf9e0-f41b-4213-bd9a-6e7dcaa51d29/linked_in?t=reix44)
 * [Microsoft Certified: Azure Administrator Associate](https://www.credly.com/badges/5bca85b5-6799-4ebb-b698-24f31586f572/linked_in?t=rj21wa)
 
-### 🌱 I’m currently learning ...
-- ReactJs - Udemy
-- Angular - Udemy
-- NodeJS - Udemy
 
 ### Some of my projects
 | Name | Description | Technologies used | Project | 
